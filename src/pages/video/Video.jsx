@@ -1,6 +1,6 @@
 import React from 'react'
 import './Video.css'
-import Playvideo from '../../Components/playvideo/Playvideo'
+import Playvideo from '../../Components/playvideo/PlayVideo.jsx'
 import Recommendded from '../../Components/Recommended/Recommended'
 import { useParams } from 'react-router-dom'
 const Video = () => {
